@@ -1,0 +1,6 @@
+Text RPG is written by A.Taylor. This source is free to use in any of your projects, however, if you intend to use this source for any college/University projects please email me and i will be delighted to help. Emailing me for permission to use this source
+in your educational projects enables you, to not include my name in the source. Effectively making you credible for this source AND its affliated class files ( Except andre's CLI color wrapper ) . 
+If you think my code may be badly written, I'm not worried about bad code at this moment in time, as long as my code works, I'm a happy man. 
+This project was written up to test my python programming skills, because i had been caught up with RL stuff ;-) .
+
+Contact me at : Ashtrix2k@googlemail.com

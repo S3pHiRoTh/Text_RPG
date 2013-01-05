@@ -1,0 +1,20 @@
+Text RPG Idea Elements :
+-------------------
+
+- Character name Default : Hero 
+- Can choose character classes ( Mage, Warrior, Archer )
+- Archer can use skills such as a volly, and the mage can use spells
+- Can go back and forth from locations ( Different locations = harder mobs )
+- Can buy items from NPC's ( Better weapons, potions etc )
+- Can Die! :-( ( Take damage, show damage, show current health. )
+- Fitting story for the game ( With multiple paths/endings )
+- Can level up!
+- Magic! ( Casting spells deals more damage. Can learn more spells with XP )
+- XP system
+- Random encounter ( possibly )
+- Rename the hero
+- Create inventory menu
+- Create map selection list
+- Create some sort command line game user interface
+- Stat tracker!
+- Be able to save the current progress ( File extension will be .RPG )
