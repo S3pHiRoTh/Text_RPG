@@ -57,7 +57,7 @@ V.0.0.30
 ======
 - Squashed bugs that was accidentally created in V.0.0.20 due to rushing to implement new features.
 - Deleted monster class file & npc class file. Instead I will integrate the monster code into the levelup_and_battle_sys class module.
-- Deleted Hero_class_types class module, instead I've have integrated the code into the interface class module.
+- Deleted Hero_class_types class module, instead I've integrated the code into the interface class module.
 - Monster system, with random encounters will be available in V.0.0.40 .
 - Created Class system ( Fully working, with each classes bonus attributes! )
 - Level up bonus stats are added and accounted for when hero makes a level! ( Stats are different for each class! )
