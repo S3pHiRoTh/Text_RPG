@@ -134,7 +134,7 @@ class Game(object) :
 	
 	def Game_Start(self, color_grey) :
 		menu_choice = raw_input("(Enter a number to start the game. To start the game press 1, to quit press 3) ")
-		if 	menu_choice == "1" :
+		if menu_choice == "1" :
 			system('cls')
 			self.Game_title_Story(color_yellow = cons.set_text_attr(cons.FOREGROUND_YELLOW))
 			Interface_Story_Intro()
